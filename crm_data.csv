@@ -1,0 +1,6 @@
+customer_id,income,homeowner,vehicles_owned,gender,marital_status,health_insurance,age
+1,50000,TRUE,1,male,married,TRUE,22
+2,60000,FALSE,0,male,single,FALSE,35
+3,55000,TRUE,2,female,married,TRUE,32
+4,70000,TRUE,1,male,married,FALSE,45
+5,45000,FALSE,0,female,single,TRUE,28
